@@ -1,1 +1,1 @@
-# front_grupo_de_estudos
+# grupo-de-estudos-front
